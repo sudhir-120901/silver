@@ -1,0 +1,31 @@
+
+.image1{
+        padding:00px 100px;
+        float:right;
+        height: 400px;
+        width: 700px;
+        /*border-width: 5px;
+        border-style: solid;
+        border-color:black;*/
+    } 
+ .image2{
+        padding:00px 100px;
+        float:right;
+        height: 400px;
+        width: 700px;
+        /*border-width: 5px;
+        border-style: solid;
+        border-color:black;*/
+    }
+    .head{
+        color:darkturquoise;
+    }
+    .check{
+        font-size:100px;
+        float:right;
+        color: white;
+        padding: 20px;
+        font-size: 50px;
+    }
+
+   

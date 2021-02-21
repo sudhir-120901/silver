@@ -1,0 +1,99 @@
+
+.first {
+     font-family:"serif";
+     background-image:url(https://www.pcclean.io/wp-content/gallery/hexagon-hd-wallpapers/Hexagon-36.jpg);
+}
+li{
+    list-style: none;   
+}
+*{
+    box-sizing:border-box;
+}
+
+.header {
+     height: 200px;
+     color:yellow;   
+}
+.header-logo{
+    float:left;
+    font-size:50px;
+    position: fixed;
+    width:100%;
+}
+.header-list li{
+    float:right;
+    padding: 00px 20px;
+    color:whitesmoke;
+    font-size:30px;
+    color: chocolate;
+}
+.main{
+    height:1350px;
+ 
+}
+.welcome {
+    height:500px;
+    font-size: 50px;  
+}
+.welcome h1{
+   font-family: "Gill Sans";     
+}
+.image1{
+    
+    float:right;
+    height: 400px;
+    width: 700px;
+    /*border-width: 5px;
+    border-style: solid;
+    border-color:black;*/
+}
+.about{
+    padding: 200px 200px;
+    position: relative;
+    color: cyan;
+    height:810px; 
+    background-image:url(https://tse4.mm.bing.net/th?id=OIP.8GPJcHorSOOsOgqPCwo2lAHaEg&pid=Api&P=0&w=282&h=172);
+    background-size:absolute;
+}
+   
+.about h1{
+    font-size:80px ;
+    font-family: 'Lucida Sans';
+    
+}
+.about li{
+    font-size:40px;
+    font-family: cursive;
+}
+.footer{
+    height:500px;
+    background-image:url(https://tse1.mm.bing.net/th?id=OIP.GgABvqSSaNw3PLtdDyh9YwHaEK&pid=Api&P=0&w=296&h=168);     
+}
+.footer-logo{
+    font-size: 80px;    
+    color: darkgrey;
+}
+.footer-list{
+    float:right;
+    color: darkgrey;
+    padding: 20px;
+    font-size: 50px;
+}
+.profile-link {
+    float:left; 
+    font-size: 70px;
+    font-family:'lucida calligraphy';
+    color: darkgrey;
+}
+.academics{
+    background-image:url(https://tse4.mm.bing.net/th?id=OIP.8GPJcHorSOOsOgqPCwo2lAHaEg&pid=Api&P=0&w=282&h=172);
+    font-size: 20px;
+    font-family:castellar ;
+    color: darkred;
+}
+.Project{
+    background-image:url(https://tse4.mm.bing.net/th?id=OIP.8GPJcHorSOOsOgqPCwo2lAHaEg&pid=Api&P=0&w=282&h=172);
+    font-size: 20px;
+    font-family:castellar ;
+    color: darkred;
+}
